@@ -1,3 +1,5 @@
+Name:Pardeep Kaur
+Student Id:100404907
 I want to make an app named as "HELPING HAND" through which poor people can be feed and helped. In this website, people can log in using their email address and phone number(optional) and they can also use their location to easily access this website. In today's world, there are so many families who throw their leftover food in the garbage rather giving it to the poor people because people are very busy and they do not have time to give it to the communities who give food to the beggars or poor people.
  By this app, it can become easy as they can search  nearby locations where food is needed and volunteers can give it to these communities and these communities can hire some people who can bring food from volunteers people's home to these communities. So through this app, poor people can be helped and also easier to access for all the masses.
 
